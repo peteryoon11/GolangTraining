@@ -20,4 +20,8 @@ func main() {
 	fmt.Printf("%d\n", GB)
 	fmt.Printf("%b\t", TB)
 	fmt.Printf("%d\n", TB)
+
+
+
+	fmt.Printf("%d\n", TB)
 }
